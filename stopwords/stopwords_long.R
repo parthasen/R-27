@@ -1,0 +1,1 @@
+stopwords_long <- readLines("data/stopwords_long.txt")
